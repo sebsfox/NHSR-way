@@ -3,7 +3,7 @@
 
 Tell us about your career, your work, your favourite packages, your R or open-source based journey, or anything you think the community would be interested in!
 
-We'd love to receive blogs for the website and these can be emailed to [nhs.rcommunity@nhs.net](https://nhsrcommunity.slack.com/).
+We'd love to receive blogs for the website and these can be emailed to [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
 
 If you want to submit the blog as a Quarto document directly to the repository we'd love to receive a pull request from you (see [get involved](#get-involved) for tips on how).
 
